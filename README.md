@@ -14,7 +14,7 @@ This assignment aimed to demonstrate skills in UI development, visual effects, o
 ## Result
 
 The final result includes a fully functional and visually appealing scene implemented in Unity. It features a responsive user interface, dynamic parallax, and optimized particle effects, all while maintaining performance standards.  
-You can view the completed project via this [(Google Drive Link)](#https://drive.google.com/drive/folders/1AwdAYDF-BIYOzOP71mnuk--grKGzCU31). 
+You can view the completed project via this [(Google Drive Link)](https://drive.google.com/drive/folders/1AwdAYDF-BIYOzOP71mnuk--grKGzCU31). 
 
 ### Key features of the implementation include:
 - **Responsive UI Design:** The user interface is fully adaptive, ensuring proper functionality across different screen sizes and aspect ratios while respecting safe zones.  
@@ -37,6 +37,6 @@ The task was completed using the following approach:
 
 ## How to Use
 
-Use Unity 2022.3.48f1 for running. For quick access to the results, please use [(Google Drive Link)](#https://drive.google.com/drive/folders/1AwdAYDF-BIYOzOP71mnuk--grKGzCU31).  
+Use Unity 2022.3.48f1 for running. For quick access to the results, please use [(Google Drive Link)](https://drive.google.com/drive/folders/1AwdAYDF-BIYOzOP71mnuk--grKGzCU31).  
 
 For any questions or feedback about the implementation, feel free to contact me at Telegram: @Arina_Ra.
